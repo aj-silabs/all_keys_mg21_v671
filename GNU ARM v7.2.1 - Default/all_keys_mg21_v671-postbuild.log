@@ -1,0 +1,81 @@
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v4_2/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "all_keys_mg21_v671.axf" "all_keys_mg21_v671.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4_2\developer\adapter_packs\commander\commander.exe gbl create "all_keys_mg21_v671.gbl" --app "all_keys_mg21_v671.s37" --device EFR32MG21A010F1024IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
